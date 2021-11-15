@@ -47,7 +47,7 @@ Open an issue **only** if you want to report a bug or a feature. Don't open issu
 
 ## Issue Triage
 
-Here are some tags that we're using to better organize issues in this repo:
+Here are some tags that we're using to better organize issues:
 
 - `good first issue` - Good candidates for someone new to the project to contribute.
 - `help wanted` - Issues that should be addressed and which we would welcome a
